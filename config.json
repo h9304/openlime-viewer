@@ -1,8 +1,0 @@
-{
-  "default_view": "test",
-  "views": {
-    "test": {
-      "rti_file": "data/test.rti"
-    }
-  }
-}
