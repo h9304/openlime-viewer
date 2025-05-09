@@ -1,8 +1,8 @@
 {
-  "images": [
-    {
-      "url": "data/test.rti",
-      "label": "Test RTI"
+  "default_view": "test",
+  "views": {
+    "test": {
+      "rti_file": "data/test.rti"
     }
-  ]
+  }
 }
